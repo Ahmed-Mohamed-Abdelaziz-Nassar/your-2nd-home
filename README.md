@@ -8,7 +8,7 @@ This project demonstrates a complete client-side application flow including auth
 
 ## 🔗 Live Demo
 
-[🚀 View Live Application](https://ur-2nd-home.netlify.app/)
+[🚀 View Live Application](https://ur-2nd-home.netlify.app/) : https://ur-2nd-home.netlify.app/
 
 ---
 
